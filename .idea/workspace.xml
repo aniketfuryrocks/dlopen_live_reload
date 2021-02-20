@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b09b6b52-c98f-485f-aed4-fc0440237030" name="Default Changelist" comment="" />
+    <list default="true" id="b09b6b52-c98f-485f-aed4-fc0440237030" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/lib.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +33,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -131,11 +135,23 @@
       <option name="presentableId" value="Default" />
       <updated>1613837089228</updated>
       <workItem from="1613837091514" duration="6665000" />
-      <workItem from="1613843926969" duration="428000" />
+      <workItem from="1613843926969" duration="804000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1613844473152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613844473152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
